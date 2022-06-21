@@ -18,6 +18,8 @@ https://cordbot.ga/i/pnyum.png
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/pijoters/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/pijoters/#gh-dark-mode-only)
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 <!--
 **Pijoters/Pijoters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
