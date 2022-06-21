@@ -7,7 +7,9 @@
 https://cordbot.ga/i/pnyum.png
 
 ### Connect with me:
-
+[![website](./img/globe-light.svg)](https://cordbot.ga/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://cordbot.ga/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCH1KIq3I8xQ6hDK6xmXTTmw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCH1KIq3I8xQ6hDK6xmXTTmw#gh-dark-mode-only)
 &nbsp;&nbsp;
