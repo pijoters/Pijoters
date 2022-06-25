@@ -1,7 +1,7 @@
 ### Hi there, i`m Pijoter 👋
 
 - I’m currently working on Cordbot
-- I’m currently learning Javascript, html, css, python and more
+- I’m currently learning Javascript, HTML, CSS, Python and more
 
 - My Discord:
 https://cordbot.ga/i/pnyum.png
