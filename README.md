@@ -3,9 +3,6 @@
 - I’m currently working on Cordbot
 - I’m currently learning Javascript, HTML, CSS, Python and more
 
-- My Discord:
-https://cordbot.ga/i/pnyum.png
-
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://cordbot.ga/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://cordbot.ga/#gh-dark-mode-only)
